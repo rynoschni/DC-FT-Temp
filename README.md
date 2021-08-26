@@ -1,8 +1,8 @@
-# DigitalCrafts - $FLEX_CLASS_ID
+# DigitalCrafts - $FULL_TIME_CLASS_ID
 
 Welcome to DigitalCrafts!
 
-This is your field guide to your Flex cohort, and should provide you with information you need about what to expect in class week to week.
+This is your field guide to your Full Time cohort, and should provide you with information you need about what to expect in class week to week.
 
 ## Important Links
 
